@@ -9,22 +9,24 @@ home: https://bioinformaticsdotca.github.io/ISO_2024
 description: Introductory Spatial 'Omics Analysis Schedule
 ---
 
-**Course schedule coming soon!**
 
-<!-- 
-| Time (Eastern) |                                Monday, June 26                                | Time (Eastern) |                                    Tuesday, June 27                                     |
-| :------------: | :---------------------------------------------------------------------------: | :------------: | :-------------------------------------------------------------------------------------: |
-|      8:30      |                <font color="green">Arrivals & Check-in</font>                 |      8:30      |                           <font color="green">Arrivals</font>                           |
-|      9:00      |               <font color="purple">Welcome (Nia Hughes)</font>                |      9:00      | <font color="purple">Day 2 Review Module 3: Loops and functions (Frances Wong)</font> |
-|      9:30      |    <font color="purple">Module 1: Getting to Know R (Frances Wong)</font>     |     10:00      |                        <font color="green">Break (15 min)</font>                        |
-|     10:30      |                   <font color="green">Break (15 min)</font>                   |     10:15      |          <font color="purple">Module 3: Loops and functions (continued)</font>          |
-|     10:45      |      <font color="purple">Module 1: Getting to Know R (continued)</font>      |     11:00      |                        <font color="green">Break (15 min)</font>                        |
-|     11:15      |                   <font color="green">Break (15 min)</font>                   |     11:15      |          <font color="purple">Module 3: Loops and functions (continued)</font>          |
-|     11:30      |      <font color="purple">Module 1: Getting to Know R (continued)</font>      |     12:00      |                          <font color="green">Class Photo + Lunch (1h)</font>                          |
-|     12:00      |                     <font color="green">Lunch (1h)</font>                     |     13:00      |         <font color="purple">Module 4: Linear regression (Frances Wong)</font>          |
-|     13:00      | <font color="purple">Module 2: Exploring your data in R (Frances Wong)</font> |     14:00      |                        <font color="green">Break (15 min)</font>                        |
-|     14:00      |                   <font color="green">Break (15min)</font>                    |     14:15      |           <font color="purple">Module 4: Linear regression (continued)</font>           |
-|     14:15      |  <font color="purple">Module 2: Exploring your data in R (continued)</font>   |     15:15      |                        <font color="green">Break (15 min)</font>                        |
-|     15:15      |                   <font color="green">Break (15min)</font>                    |     15:30      |                        <font color="purple">Short project</font>                        |
-|     15:30      |             <font color="purple">Review and short project</font>              |     17:00      |                  <font color="purple">Survey & Closing Remarks</font>                   |
-|     17:30      |                      <font color="green">Finished</font>                      |     17:30      |                           <font color="green">Finished</font>                           | -->
+
+### Please Note
+There will be an Amazon Web Services/Unix review session held on July 8 from 10AM-3PM EST. It will be held on Zoom, included in your registration fee, and is optional but highly recommended. The first module (10:10 - 11:10AM) will teach you how to connect to AWS so you can complete the workshop labs. We recommend all students attend this portion. The remaining sections will teach the basics of Unix and using the command line; we recommend that participants who do not have experience with the command line attend this portion.
+
+
+| Time (EST) | Day 1: July 9, 2024                                           | Time (EST) | Day 2: July 10, 2024    |
+|------------|---------------------------------------------------------------|------------|-------------------------|
+|       7:30 | Arrivals, Check-in, and Breakfast                                     |       7:30 | Arrivals, Check-in, and Breakfast |
+|       8:30 | Welcome + introductions (Nia Hughes, Jennifer Law), AWS check |       9:00 | Module 4                |
+|       8:45 | Keynote (Trevor Pugh)                                         |      10:00 | Break                   |
+|       9:15 | Module 1                                                      |      10:30 | Module 4, cont'd        |
+|      10:45 | Break                                                         |      12:00 | Lunch                   |
+|      11:00 | Module 1 (cont'd)                                             |      12:45 | Module 4, cont'd        |
+|      12:15 | Lunch                                                         |       2:45 | Break                   |
+|       1:00 | Module 2                                                      |       3:00 | Module 5                |
+|       3:15 | Break                                                         |       4:00 | Break                   |
+|       3:30 | Module 3                                                      |       4:15 | Module 6                |
+|       4:45 | Break                                                         |       5:00 | Concluding Remarks      |
+|       5:00 | Module 3 cont'd                                               |       5:30 | Finished                |
+|       6:30 | Social                                                        |            |                         |
